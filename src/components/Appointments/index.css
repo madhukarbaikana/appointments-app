@@ -62,7 +62,7 @@
     height: 100%;
   }
   .horizontal-rule {
-    height: 2px;
+    border:1px solid #b5b7c4;
   }
   
   .appointments-headings-container {
